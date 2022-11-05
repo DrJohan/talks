@@ -1,5 +1,5 @@
 <h1 style="font-weight:normal" align="center">
-  &nbsp;#TidyTuesday Contributions&nbsp;
+  &nbsp;#Talks Collections&nbsp;
 </h1>
 
 <div align="center">
